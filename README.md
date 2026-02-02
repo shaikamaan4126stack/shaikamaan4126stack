@@ -1,5 +1,4 @@
 ![logo](https://github.com/shaikamaan4126stack/shaikamaan4126stack/blob/main/My%20BACKGROUN%20PRF.png)
-<H1>HII IM RAJKIRAN </H1>
 <h1 align="center">Hi 👋, I'm SHAIK AMAAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
